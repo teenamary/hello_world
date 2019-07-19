@@ -1,1 +1,2 @@
-I am working on the basics of Git and I find it really interesting.
+I am working on the basics of Git and I find it really interesting. 
+The online tutorials are helping me alot with this.

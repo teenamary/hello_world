@@ -1,1 +1,2 @@
-Hello. I'm a beginner to Git and I have started learning Git.
+Hello. I'm a beginner to Git and I have started learning Git. 
+And frankly speaking, Git seems so interesting. And I'm happy.
